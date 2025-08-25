@@ -2,6 +2,9 @@
 📊 Sales Dashboard with Forecasting
 
 This project is an interactive Sales Dashboard built using Power BI to analyze, visualize, and forecast sales performance. The dashboard provides actionable insights into revenue trends, customer behavior, and product performance, helping businesses make data-driven decisions.
+•	   incorported data analysis techniques, specializing in time series analysis ,
+•	  to deliver valuable insights ,  accurate sales forecasting, and interactive dashboard creation , driving business success 
+
 
 🔑 Key Features:
 
@@ -26,6 +29,7 @@ Automated reporting with real-time updates and drill-through analysis.
 Forecasted 15 days of future sales to support strategic planning.
 
 Enhanced decision-making through interactive and predictive insights.
+
 
 # Dashboard preview
 link  (https://github.com/RANJAN9934/Sales_Dashboard/blob/main/Screenshot%202025-08-25%20235756.png)
